@@ -6,9 +6,9 @@ import java.sql.SQLException;
 
 public class Util {
 
-    private static final String URL = "jdbc:mysql://localhost:3306/saver";
+    private static final String URL = "jdbc:mysql://localhost:3306/basename";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "MyS@12348765";
+    private static final String PASSWORD = "parol";
 
     public static Connection getConnection() {
 
